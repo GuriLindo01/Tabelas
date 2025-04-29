@@ -16,5 +16,25 @@ a{
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
-    margin: 2px 2px;
+}
+
+.bt2{
+    background-color: white;
+    padding: 3px 3px;
+    border: none;
+    border-radius: 5px;
+}
+
+.bt3{
+    background-color: white;
+    padding: 3px 3px;
+    border: none;
+    border-radius: 5px;
+}
+
+.bt4{
+    background-color: white;
+    padding: 3px 3px;
+    border: none;
+    border-radius: 5px;
 }
