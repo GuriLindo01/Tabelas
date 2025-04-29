@@ -8,5 +8,12 @@ a{
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
-    color: rgb(95, 93, 93);
+    color: rgb(63, 62, 62);
+}
+
+.bt1{
+    background-color: white;
+    padding: 3px 3px;
+    border: none;
+    border-radius: 5px;
 }
