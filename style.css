@@ -6,8 +6,13 @@
     align-items: center;
 }
 
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/04/12/82/16/360_F_412821610_95RpjzPXCE2LiWGVShIUCGJSktkJQh6P.jpg");
+    background-size: cover;
+}
+
 .tabela{
-    background-color: rgb(193, 224, 187);
+    background-color: rgb(224, 235, 222);
     border-radius: 5px;
     padding: 5px 5px;
     align-items: center;
