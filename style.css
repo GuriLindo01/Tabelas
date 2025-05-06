@@ -34,8 +34,8 @@ a{
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
-    margin: 5px 5px;
-    width: 300px;
+    margin-left: 50%;
+    width: 500px;
 }
 
 .bt2{
@@ -43,8 +43,8 @@ a{
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
-    margin: 5px 5px;
-    width: 300px;
+    margin-left: 50%;
+    width: 500px;
 }
 
 .bt3{
@@ -52,8 +52,8 @@ a{
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
-    margin: 5px 5px;
-    width: 300px;
+    margin-left: 50%;
+    width: 500px;
 }
 
 .bt4{
@@ -61,6 +61,6 @@ a{
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
-    margin: 5px 5px;
-    width: 300px;
+    margin-left: 50%;
+    width: 500px;
 }
