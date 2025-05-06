@@ -1,12 +1,11 @@
 .container{
-    background-image: url("https://www.shutterstock.com/image-vector/abstract-blue-background-modern-simple-600nw-2474145007.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1WMTXWGmAW8G3vIXcxfNpS_QCpnf0iWdIGA9mxoXT_7xlDchI2-6Nr8BYm446jNZds68&usqp=CAU");
     background-size: cover;
     border-radius: 5px;
     padding: 5px 5px;
     display: flex;
     align-items: center;
     height: 40px;
-    font-family: sans-serif;
 }
 
 body{
@@ -29,7 +28,7 @@ body{
 a{
     text-decoration: none;
     font-family: sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     color: rgb(255, 255, 255);
 }
 
