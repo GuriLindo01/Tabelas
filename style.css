@@ -67,3 +67,10 @@ a{
     margin-left: 5px;
     width: 500px;
 }
+
+hr{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/007/446/811/non_2x/abstract-blue-light-background-free-vector.jpg");
+    width: 100%;
+    height: 4px;
+    border: none;
+}
