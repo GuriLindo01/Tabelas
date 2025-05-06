@@ -12,13 +12,13 @@ body{
 }
 
 .tabela{
-    background-color: rgb(224, 235, 222);
+    background-color: rgb(206, 206, 206);
     border-radius: 5px;
     padding: 5px 5px;
     align-items: center;
     margin: 5px 5px;
     width: 200px;
-    margin-left: 45%;
+    margin-left: 5%;
     align-items: center;
 }
 
