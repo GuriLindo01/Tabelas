@@ -1,5 +1,6 @@
 .container{
-    background-color: rgb(202, 201, 201);
+    background-image: url("https://t3.ftcdn.net/jpg/06/30/06/32/360_F_630063258_Pazc3vbQLlnRbyMMCZey2yvOBhtnuyOn.jpg");
+    background-size: cover;
     border-radius: 5px;
     padding: 5px 5px;
     display: flex;
@@ -44,6 +45,7 @@ a{
     border: none;
     border-radius: 5px;
     margin-left: 50%;
+    margin-top: 5px;
     width: 500px;
 }
 
@@ -53,6 +55,7 @@ a{
     border: none;
     border-radius: 5px;
     margin-left: 50%;
+    margin-top: 5px;
     width: 500px;
 }
 
@@ -62,5 +65,6 @@ a{
     border: none;
     border-radius: 5px;
     margin-left: 50%;
+    margin-top: 5px;
     width: 500px;
 }
