@@ -35,13 +35,13 @@ a{
 }
 
 .bt1{
-    background-color: transparent;
     padding: 3px 3px;
     border: none;
     border-radius: 5px;
     margin-left: 5px;
     width: 100vw;
     height: 100vh;
+    background-color: white;
 }
 
 .bt2{
