@@ -6,6 +6,7 @@
     display: flex;
     align-items: center;
     height: 40px;
+    font-family: sans-serif;
 }
 
 body{
